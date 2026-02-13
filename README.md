@@ -16,7 +16,7 @@
 Переходим на SLAVE и подключаем SLAVE к MASTER, после проверяем статус.  
 <img width="1474" height="695" alt="Screenshot_19" src="https://github.com/user-attachments/assets/42783b93-62c5-48ce-ac82-6d557e8a5d12" />  
 Переходим на MASTER и создаем простую базу данных  
-<img width="378" height="205" alt="Screenshot_11" src="https://github.com/user-attachments/assets/006fb087-53dd-4d81-bf34-09e19082951a" />  
+<img width="378" height="205" alt="Screenshot_11" src="https://github.com/user-attachments/assets/71fe826b-c160-4c2b-a0ac-a10c1f41b32d" />
 Дальше переходим на SlAVE и проверяем появилась ли там наша база  
 <img width="789" height="967" alt="Screenshot_12" src="https://github.com/user-attachments/assets/071775ee-945d-4a39-bffb-b435082ea779" />  
 
