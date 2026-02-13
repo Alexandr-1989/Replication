@@ -13,10 +13,10 @@
 
 Создаем пользователя на MASTER 
 <img width="853" height="287" alt="Screenshot_18" src="https://github.com/user-attachments/assets/98a3ed01-2feb-4d84-9de8-5a1b53d2609a" />  
-Переходим на SLAVE и там проделываем необходимые действия, после проверяем статус.
+Переходим на SLAVE и там проделываем необходимые действия, после проверяем статус.  
 <img width="1476" height="800" alt="Screenshot_10" src="https://github.com/user-attachments/assets/58eed52c-ab2b-4d0f-9cd9-c916d52ea5f4" />  
-Переходим на MASTER и создаем простую базу данных
+Переходим на MASTER и создаем простую базу данных  
 <img width="378" height="205" alt="Screenshot_11" src="https://github.com/user-attachments/assets/006fb087-53dd-4d81-bf34-09e19082951a" />  
-Дальше переходим на SlAVE и проверяем наш список баз 
+Дальше переходим на SlAVE и проверяем наш список баз  
 <img width="789" height="967" alt="Screenshot_12" src="https://github.com/user-attachments/assets/071775ee-945d-4a39-bffb-b435082ea779" />  
 
